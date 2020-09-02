@@ -1,0 +1,10 @@
+Status: FAILED
+Time Taken: 1218
+Size: 0
+Timestamp: Mon Aug 17 12:32:02 IST 2020
+TestStep: DataDrivenTesting
+Error:groovy.lang.MissingPropertyException: No such property: emailId for class: Script1
+
+----------------- Messages ------------------------------
+groovy.lang.MissingPropertyException: No such property: emailId for class: Script1
+error at line: 22
